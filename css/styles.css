@@ -1,1 +1,8 @@
-
+.btn{
+  font-family:arial;
+  text-transform: uppercase;
+  cursor: pointer;
+  display:inline-block;
+  box-shadow:0 5px 0 #006000;
+}
+  
